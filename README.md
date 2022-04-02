@@ -1,2 +1,3 @@
 # tetris
-Tetris
+
+I was bored so i created with github copilot Tetris in python...
