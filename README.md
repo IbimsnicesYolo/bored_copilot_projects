@@ -1,3 +1,3 @@
-# tetris
+# Boring Programs i made with github copilot because i was bored
 
-I was bored so i created with github copilot Tetris in python...
+
